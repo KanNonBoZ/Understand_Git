@@ -1,0 +1,1 @@
+prin("Hello 2")
